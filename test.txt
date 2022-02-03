@@ -1,4 +1,10 @@
 test...
+<<<<<<< .mine
 github test...
 
+=======
+github test...
+
+>>>>>>> .theirs
 bbbbbbbb
+aaaaaaaa
